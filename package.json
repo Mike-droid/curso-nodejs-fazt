@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "@types/node": "^15.12.4"
+  },
+  "name": "cursonodejsfazt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Miguel Reyes",
+  "license": "ISC",
+  "description": "Un pequeño video de youtube sobre node js"
+}
